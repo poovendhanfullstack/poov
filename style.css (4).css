@@ -1,0 +1,6 @@
+.one:hover:hover h1{
+    color:white;
+    background-color:black;
+    display: inline;
+    cursor: pointer;
+}

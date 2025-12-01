@@ -1,0 +1,45 @@
+.p2{
+
+    background-color:white;
+color:black;
+display:flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+cursor:pointer;
+font-style:normal;
+}
+
+.p
+{
+    color: black;
+    padding-bottom: 20px
+    
+}
+.rang{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+.sri{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+li:hover{
+    color:white;
+    background-color: black;
+    cursor: pointer;
+    display: inline;
+}
+.deen{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}

@@ -1,0 +1,54 @@
+.one{
+    background-color:white;
+    color:black;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+    font-style:normal;
+    margin-bottom: 10px;
+    
+}
+.two{
+    margin-bottom: 50px;
+}
+.abt{
+    color:blue;
+    font-size: larger;
+    font-style:normal;
+}
+*{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+}
+.p
+{
+    color: black;
+    padding-bottom: 20px;
+    
+}
+.rang{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+.sri{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+
+    .deen{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        font-size: large;
+    }
